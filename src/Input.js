@@ -5,7 +5,6 @@ const Input = ({colorValue, setColorValue, setHexValue, isDarkText, setIsDarkTex
         <label htmlFor="input">Input</label>
         <input
             autoFocus
-            id="input"
             type="text"
             placeholder="Add Color Name"
             required
